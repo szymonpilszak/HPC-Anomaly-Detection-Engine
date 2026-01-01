@@ -34,5 +34,14 @@ The system employs a statistical approach (3rd Sigma Rule) to identify outliers.
 ## ⚙️ Quick Start
 
 ### 1. Requirements
-```bash
+```bash```
 pip install -r requirements.txt
+
+
+### 2. Generate Data
+python data_gen.py
+# Recommended: 10,000,000 records, save as .npy
+
+### 3. Run Analysis
+python data_gen.py
+# Recommended: 10,000,000 records, save as .npy
